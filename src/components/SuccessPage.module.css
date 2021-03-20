@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.successpage {
+    position: relative;
+    margin-left: 150px;
+    top: 15vh;
+}
+
+.successpage h1 {
+    position: absolute;
+    font-size: 50px;
+}
+
+.successpage h3 {
+    position: absolute;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.homebutton h3 {
+    position: absolute;
+    margin-left: 25vh;
+    margin-top: 30vh;
+}
+
+.homebutton h3:hover {
+    color: rgb(117, 77, 2);
+}

@@ -1,0 +1,6 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(-45deg, transparent, purple 50%, green 50%, transparent), 
+              linear-gradient(-30deg, transparent, blue, yellow, transparent);
+}
